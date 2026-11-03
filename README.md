@@ -34,7 +34,19 @@
 - 有没有**长期维护绕过封锁的团队**，而不是靠一次性“撞运气”；  
 - 客服、App 更新频率、客户端稳定性如何。  
 
+### [Starfirewall](https://starfirewall.com/)：按使用周期比较总成本
+
+![Starfirewall 官网界面](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
+
+预算有限时，可以把 Starfirewall 的月付和年付一起比较。官网目前列出的月付价格为 89 元，年付为 329 元；年付平均约 27.4 元/月，实际需要一次支付全年费用。对已经确认服务适合自己网络、并且有长期使用需求的人，年付的平均成本更低。
+
+它通过用户中心提供订阅，需要配合兼容客户端使用。计算预算时，也要把客户端可能产生的费用和套餐流量规则考虑进去。如果只是短期需求，先比较总支出，避免只看折合月价就直接选择长周期套餐。价格与活动可能调整，购买前请核对官网及结算页。
+
+[查看 Starfirewall 套餐与使用说明](https://starfirewall.com/)
+
 ### [StrongVPN](https://overwallvpn.com/go/strongvpn)：老牌、低调，但抗封锁能力和稳定性都不错  
+
+![StrongVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/10/StrongVPN-App.jpg)
 
 **StrongVPN** 算是老牌选手，名气不如 ExpressVPN、NordVPN 大，但在“能不能连上、能不能坚持连”这件事上评价挺稳。它的一大优势在于：  
 - 支持 **多种协议**，包括传统的 OpenVPN、L2TP、IKEv2，还有自家的 Scramble（混淆）功能，可以一定程度上对抗 GFW 的流量识别；  
@@ -45,6 +57,8 @@
 
 ### [PrivateVPN](https://overwallvpn.com/go/privatevpn)：小而精，适合追剧和轻度科学上网  
 
+![PrivateVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2024/11/privatevpn-homepage.jpg)
+
 **PrivateVPN** 的名气在国内不算大，但在国外很多人推它做“Netflix 解锁利器”。这点对在中国翻墙的用户其实也挺有价值：  
 - 它针对**流媒体解锁优化得很好**，包括 Netflix、BBC iPlayer、Hulu 等，基本都是能上的；  
 - 客服和团队比较“接地气”，愿意专门为某些地区用户提供连接建议，比如推荐哪几个节点适合中国、用什么协议更稳；  
@@ -53,6 +67,8 @@
 在中国使用 PrivateVPN 的优势，更多体现在“轻负载 + 解锁能力强”：如果你的主要需求是刷国外流媒体、追美剧英剧、偶尔看看 YouTube，或者在 TikTok、Instagram 上发点内容，PrivateVPN 的体验会相当不错。缺点是线路选择没有大厂那么多，客户端的打磨程度也稍微逊色一点，但胜在性价比高。对预算有限、但又不想用不明来源“免费 VPN”的用户来说，是个低调却实用的选择。  
 
 ### [CyberGhost](https://overwallvpn.com/go/cyberghost)：服务器多、功能全，适合需要多场景使用的人  
+
+![CyberGhost 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/cyberghost-china-ip.jpg)
 
 **CyberGhost** 是那种你第一次打开官网会被“功能表”吓一跳的 VPN：  
 - 拥有**数量非常庞大的服务器网络**，遍布 90+ 国家，节点选择极其丰富；  
@@ -71,6 +87,8 @@
 
 ### [ExpressVPN](https://overwallvpn.com/go/expressvpn)：翻墙老网红，速度和稳定性都在线  
 
+![ExpressVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/11/expressvpn-homepage.jpg)
+
 说到在中国翻墙，**ExpressVPN** 基本是绕不开的名字。很多老用户的评价可以概括为两个词：**稳、快**。它在中国的优势主要集中在几方面：  
 - 自研 **Lightway 协议**，在复杂网络环境下连接建立速度很快，掉线重连也非常灵敏；  
 - 长期针对中国进行优化，后台团队会持续更新可用节点、对抗 GFW 封锁；  
@@ -84,6 +102,8 @@
 当然，ExpressVPN 的价格在业内一直偏上，属于“贵但物有所值”的类型。如果你只是偶尔翻个墙看个 YouTube，不在乎偶发断线，用它可能有点浪费。但如果你把“能不能稳定连外网”当作生产力工具的一部分，那很多人宁愿多花点钱，也不想在关键时刻掉链子。  
 
 ### [NordVPN](https://overwallvpn.com/go/nordvpn)：性价比高、功能全面，还有进阶玩法  
+
+![NordVPN 产品界面](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-homepage.jpg)
 
 **NordVPN** 这几年在国内外的口碑都很高，可以看作是“功能完善 + 性价比不错 + 隐私安全做得很认真”的综合型选手。在中国翻墙，它的优势体现在：  
 - 支持 **Obfuscated Servers（混淆服务器）**，可以伪装 OpenVPN 流量，更难被 GFW 识别；  
